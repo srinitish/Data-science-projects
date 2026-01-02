@@ -17,42 +17,42 @@ A real-world NLP application that *extracts text from resumes (PDF)* and compare
 ---
 
 ### 2️⃣ Smart Crop Recommendation & Fertilizer Suggestion  
-*Tech:* Python, Machine Learning, Pandas, Scikit-learn  
-A machine learning system that recommends the *best crop* based on soil nutrients (N, P, K), temperature, humidity, rainfall, and also suggests *optimal fertilizers* to improve agricultural yield.  
+*Tech:* Python, Machine Learning, Classification, Logistic Regression (Crop Prediction), Random Forest (Fertilizer Prediction)</br>
+Predicts the most suitable crop using Logistic Regression and recommends the ideal fertilizer using Random Forest, based on soil and environmental features. Dual-model setup ensures accurate agricultural guidance for farmers and agronomists.
 🔗 Repository: https://github.com/srinitish/Smart-Crop-Recommendation-System-with-Fertilizer-Suggestion/tree/master
 
 ---
 
 ### 3️⃣ Breast Cancer Detection  
-*Tech:* Python, Machine Learning, Classification  
+*Tech:*  Python, Machine Learning, Classification, Logistic Regression (Final Model), SVM, KNN, Random Forest, XGBoost </br>
 Predicts whether a tumor is *Benign or Malignant* using medical diagnostic features. Multiple ML models were evaluated, and the best-performing model was selected for accurate predictions.  
 🔗 Repository: https://github.com/srinitish/Breast-Cancer-Detection/tree/master
 
 ---
 
 ### 4️⃣ Customer Segmentation (K-Means Clustering)  
-*Tech:* Python, Unsupervised Learning  
+*Tech:*  Python, Machine Learning, Clustering, K-Means </br>
 Segments customers based on *annual income and spending behavior* using K-Means clustering. The Elbow Method was used to determine the optimal number of clusters for targeted marketing strategies.  
 🔗 Repository: https://github.com/srinitish/customer-classification/tree/master
 
 ---
 
 ### 5️⃣ Adaptive Boosting (AdaBoost Classifier)  
-*Tech:* Python, Ensemble Learning  
+*Tech:* Machine Learning, Classification, Decision Tree, AdaBoost, Feature Selection (Chi-Square) </br> 
 Implements the *AdaBoost algorithm* with weak learners to improve classification performance and reduce bias compared to individual models.  
 🔗 Repository: https://github.com/srinitish/adaptive_boosting/tree/master
 
 ---
 
 ### 6️⃣ Customer Churn Prediction  
-*Tech:* Python, Machine Learning, Random Forest  
+*Tech:* Machine Learning, Classification, Random Forest, Feature Selection, Label Encoding, Pipeline  </br>
 Predicts whether a customer is likely to *churn* based on tenure, service usage, and billing information. Includes preprocessing, feature engineering, and model evaluation.  
 🔗 Repository: https://github.com/srinitish/churn_prediction/tree/master
 
 ---
 
 ### 7️⃣ Wine Quality Prediction  
-*Tech:* Python, Regression Models  
+*Tech:* Python, Machine Learning, Classification, Decision Tree, Feature Selection (ANOVA F-test), Pipeline </br> 
 Predicts wine quality based on chemical properties such as acidity, alcohol content, sulphates, and pH.  
 🔗 Repository: https://github.com/srinitish/Wine-quality-prediction-app/tree/master
 
@@ -66,7 +66,7 @@ Predicts *human emotions* from text input using NLP techniques. Includes text pr
 ---
 
 ### 9️⃣ Milk Quality Prediction  
-*Tech:* Python, Classification  
+*Tech:* Python, Machine Learning, Classification, K-Nearest Neighbors (KNN), Label Encoding </br>
 Predicts milk quality (*Low / Medium / High*) based on attributes such as pH, fat content, lactose, temperature, and turbidity.  
 🔗 Repository: https://github.com/srinitish/Milk-quality-predition
 
