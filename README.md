@@ -33,6 +33,16 @@ Predicts the most suitable crop using Logistic Regression and recommends the ide
 
 ---
 
+### Manual Linear Regression (From Scratch)  
+
+**Tech Stack** Python, NumPy  
+
+**Description**  
+An implementation of Linear Regression built completely from scratch without using machine learning libraries. The project manually computes the cost function, gradients, and parameter updates using Gradient Descent. This demonstrates a strong understanding of the mathematical foundations behind regression models, optimization, and model convergence.  
+
+🔗 Repository: *https://github.com/srinitish/Manual-Implementation-of-Linear-Regression-Using-Gradient-Descent*  
+
+---
 ### Breast Cancer Detection
 
 **Tech Stack**
@@ -146,6 +156,20 @@ Predicts human emotions from textual input using NLP preprocessing, vectorizatio
 🔗 Repository: [https://github.com/srinitish/emotion-predition-app/tree/master](https://github.com/srinitish/emotion-predition-app/tree/master)
 
 ---
+
+## 🧠 Computer Vision Projects  
+
+### Real-Time Color Detection & Identification  
+
+**Tech Stack** Python, OpenCV, NumPy  
+
+**Description**  
+A real-time Computer Vision application that detects and identifies colors from live webcam input. The system converts frames from BGR to HSV color space, applies dynamic thresholding, and highlights detected colors with bounding boxes and labels. This project demonstrates core computer vision concepts such as color space transformation, masking, contour detection, and real-time video processing.  
+
+🔗 Repository: *https://github.com/srinitish/color_detection_cv*  
+
+---
+
 
 ## 🛠️ Skills Demonstrated
 
