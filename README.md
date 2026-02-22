@@ -137,7 +137,7 @@ Python, Machine Learning, NumPy, Gradient Descent
 **Description**  
 Implemented Logistic Regression from scratch without using machine learning libraries such as Scikit-learn. Built the sigmoid function, cross-entropy loss, and gradient descent optimization manually to understand the mathematical foundations of binary classification. The model was trained and evaluated on a classification dataset to demonstrate convergence and prediction accuracy.
 
-🔗 Repository: [https://github.com/your-username/logistic-regression-from-scratch](https://github.com/your-username/logistic-regression-from-scratch)
+🔗 Repository: [https://github.com/your-username/logistic-regression-from-scratch](https://github.com/srinitish/Manual-Implementation-of-Logistic-Regression-From-Scratch-)
 
 ---
 
