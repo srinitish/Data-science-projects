@@ -54,7 +54,17 @@ Classifies tumors as Benign or Malignant using medical diagnostic features. Mult
 🔗 Repository: [https://github.com/srinitish/Breast-Cancer-Detection/tree/master](https://github.com/srinitish/Breast-Cancer-Detection/tree/master)
 
 ---
+### Employee Retention Analysis & Prediction
 
+**Tech Stack**  
+Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Logistic Regression
+
+**Description**  
+A Machine Learning project focused on analyzing employee data to identify key factors affecting retention and predicting whether an employee will leave the company. Performed Exploratory Data Analysis (EDA) to uncover patterns in satisfaction level, salary, and department. Built a Logistic Regression model using selected features and also implemented a manual single-feature (single neuron) logistic regression to understand the underlying mathematics. Visualized relationships using bar charts and evaluated model performance using accuracy.
+
+🔗 Repository: [https://github.com/srinitish/employee-retentio](https://github.com/srinitish/Employee-Retention-Analysis-Using-Single-Variable-Logistic-Regression)
+
+---
 ### Customer Churn Prediction
 
 **Tech Stack**
