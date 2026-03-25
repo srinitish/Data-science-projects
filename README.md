@@ -164,7 +164,19 @@ Implements the AdaBoost algorithm using weak learners to improve classification 
 🔗 Repository: [https://github.com/srinitish/adaptive_boosting/tree/master](https://github.com/srinitish/adaptive_boosting/tree/master)
 
 ---
+## 🧠 Deep Learning Projects
 
+### House Price Prediction using Neural Networks and Stochastic Gradient Descent
+
+**Tech Stack**  
+Python, TensorFlow/Keras, NumPy, Pandas, Scikit-learn
+
+**Description**  
+A deep learning-based regression model built using Keras to predict house prices from features such as area and number of bedrooms. The project emphasizes the use of Stochastic Gradient Descent (SGD) for optimization and explores the impact of different gradient descent techniques on training performance. Includes data preprocessing, feature scaling, and evaluation using regression metrics like MSE and MAE.
+
+🔗 Repository: [https://github.com/srinitishs/house-price-sgd](https://github.com/srinitish/House-Price-Prediction-using-Stochastic-Gradient-Descent-SGD-/tree/main)
+
+---
 ## 🧠 Natural Language Processing Projects
 
 ### Emotion Prediction App
