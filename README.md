@@ -177,6 +177,20 @@ A deep learning-based regression model built using Keras to predict house prices
 🔗 Repository: [https://github.com/srinitishs/house-price-sgd](https://github.com/srinitish/House-Price-Prediction-using-Stochastic-Gradient-Descent-SGD-/tree/main)
 
 ---
+
+### Handwritten Digit Classification using ANN and CNN (MNIST)
+
+**Tech Stack**  
+Python, TensorFlow/Keras, NumPy, Matplotlib
+
+**Description**  
+A deep learning-based image classification project that recognizes handwritten digits (0–9) using the MNIST dataset. The project implements and compares two neural network architectures: Artificial Neural Network (ANN) and Convolutional Neural Network (CNN). The models are trained to classify digit images, and their performance is analyzed using training accuracy and loss metrics. CNN demonstrates better performance due to its ability to capture spatial features in images. The project also visualizes the comparison between ANN and CNN through accuracy and loss graphs.
+
+
+🔗 Repository: [https://github.com/srinitish/Hand-written-digit-classification-MNIST-with-both-ANN-and-CNN]
+
+---
+
 ## 🧠 Natural Language Processing Projects
 
 ### Emotion Prediction App
