@@ -166,6 +166,18 @@ Implements the AdaBoost algorithm using weak learners to improve classification 
 ---
 ## 🧠 Deep Learning Projects
 
+### Potato Disease Classification using CNN
+
+**Tech Stack**  
+Python, TensorFlow/Keras, FastAPI, React, Docker, TensorFlow Serving, Deep Learning (CNN)
+
+**Description**  
+An end-to-end deep learning application that detects diseases in potato plant leaves using Convolutional Neural Networks (CNN). The model is trained on image data to classify potato leaves into categories such as Healthy, Early Blight, and Late Blight. The project includes a complete deployment pipeline where the trained model is served using TensorFlow Serving, exposed through a FastAPI backend, and connected to a React frontend for real-time predictions. This system demonstrates how AI can help farmers quickly identify plant diseases and take preventive action to reduce crop loss. :contentReference[oaicite:0]{index=0}
+
+🔗 Repository: [https://github.com/srinitish/potato-disease-classification-cnn](https://github.com/srinitish/potato-disease-classification-cnn)
+
+---
+
 ### House Price Prediction using Neural Networks and Stochastic Gradient Descent
 
 **Tech Stack**  
@@ -175,6 +187,30 @@ Python, TensorFlow/Keras, NumPy, Pandas, Scikit-learn
 A deep learning-based regression model built using Keras to predict house prices from features such as area and number of bedrooms. The project emphasizes the use of Stochastic Gradient Descent (SGD) for optimization and explores the impact of different gradient descent techniques on training performance. Includes data preprocessing, feature scaling, and evaluation using regression metrics like MSE and MAE.
 
 🔗 Repository: [https://github.com/srinitishs/house-price-sgd](https://github.com/srinitish/House-Price-Prediction-using-Stochastic-Gradient-Descent-SGD-/tree/main)
+
+---
+
+### Handwritten Digit Classification using ANN & CNN (MNIST)
+
+**Tech Stack**  
+Python, TensorFlow/Keras, NumPy, Matplotlib, Deep Learning (ANN & CNN)
+
+**Description**  
+A deep learning project that classifies handwritten digits (0–9) using both Artificial Neural Networks (ANN) and Convolutional Neural Networks (CNN). The models are trained on the MNIST dataset containing 70,000 grayscale images of handwritten digits with a resolution of 28×28 pixels. The project compares the performance of ANN and CNN architectures for image classification tasks and visualizes predictions and accuracy results. The CNN model leverages convolutional layers to automatically learn spatial features from images, leading to improved accuracy compared to traditional fully connected neural networks. :contentReference[oaicite:0]{index=0}
+
+🔗 Repository: [https://github.com/srinitish/Hand-written-digit-classification-MNIST-with-both-ANN-and-CNN](https://github.com/srinitish/Hand-written-digit-classification-MNIST-with-both-ANN-and-CNN)
+
+---
+
+### Insurance Purchase Prediction using Neural Networks
+
+**Tech Stack**  
+Python, TensorFlow/Keras, Pandas, NumPy, Matplotlib, Deep Learning (Artificial Neural Networks)
+
+**Description**  
+A machine learning project that predicts whether a customer is likely to purchase an insurance product based on their demographic and behavioral attributes. The project uses data preprocessing, feature engineering, and an Artificial Neural Network (ANN) model to learn patterns in customer data and perform binary classification. The model is trained and evaluated using standard performance metrics to understand its prediction accuracy and effectiveness in identifying potential insurance buyers. Such predictive models help insurance companies target the right customers and improve marketing strategies. :contentReference[oaicite:0]{index=0}
+
+🔗 Repository: [https://github.com/srinitish/Insurance-Purchase-Prediction-using-Neural-Networks](https://github.com/srinitish/Insurance-Purchase-Prediction-using-Neural-Networks)
 
 ---
 
@@ -192,6 +228,18 @@ A deep learning-based image classification project that recognizes handwritten d
 ---
 
 ## 🧠 Natural Language Processing Projects
+
+### NLP Practice Repository
+
+**Tech Stack**  
+Python, Natural Language Processing (NLP), spaCy, Gensim, Scikit-learn, NumPy, Pandas, Regular Expressions
+
+**Description**  
+A hands-on repository created to practice and explore fundamental concepts in Natural Language Processing. The project includes implementations of common NLP preprocessing techniques such as tokenization, stopword removal, lemmatization, and text cleaning using regular expressions. It also explores different text representation methods like Bag of Words, N-grams, and word embeddings, along with experiments using libraries such as spaCy and Gensim. The repository acts as a learning playground to understand the NLP pipeline and build practical intuition for solving real-world text processing problems. NLP techniques like these are commonly used in tasks such as text classification, entity recognition, and language understanding systems. :contentReference[oaicite:1]{index=1}
+
+🔗 Repository: https://github.com/srinitish/NLP_Practice_Repository
+
+---
 
 ### Emotion Prediction App
 
